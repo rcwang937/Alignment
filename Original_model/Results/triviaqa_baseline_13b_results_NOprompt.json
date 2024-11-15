@@ -1,0 +1,252 @@
+[
+    {
+        "question": "Who was the man behind The Chipmunks?",
+        "gold_answer": "David Seville",
+        "model_response": "Q: Who was the man behind The Chipmunks?\nA: The Chipmunks were created by Ross Bagdasarian, Sr., an Armenian-American singer, songwriter, and record producer. Bagdasarian, who went by the stage name David Seville, recorded the vocals for the Chipmunks himself, using a high-pitched voice to create the distinctive sound of the characters. He also wrote and produced the songs for the Chip"
+    },
+    {
+        "question": "What star sign is Jamie Lee Curtis?",
+        "gold_answer": "Scorpio",
+        "model_response": "Q: What star sign is Jamie Lee Curtis?\nA: Jamie Lee Curtis is a Pisces. She was born on March 22, 1958."
+    },
+    {
+        "question": "Which Lloyd Webber musical premiered in the US on 10th December 1993?",
+        "gold_answer": "Sunset Boulevard",
+        "model_response": "Q: Which Lloyd Webber musical premiered in the US on 10th December 1993?\nA: Sunset Boulevard.\n\nQ: Which musical by Lloyd Webber and Rice opened in London on 12th May 1986?\nA: The Phantom of the Opera.\n\nQ: Which Lloyd Webber musical is based on the novel by Gaston Leroux?\nA: The Phantom of"
+    },
+    {
+        "question": "Who was the next British Prime Minister after Arthur Balfour?",
+        "gold_answer": "Campbell-Bannerman",
+        "model_response": "Q: Who was the next British Prime Minister after Arthur Balfour?\nA: The next British Prime Minister after Arthur Balfour was Andrew Bonar Law."
+    },
+    {
+        "question": "Who had a 70s No 1 hit with Kiss You All Over?",
+        "gold_answer": "Exile",
+        "model_response": "Q: Who had a 70s No 1 hit with Kiss You All Over?\nA: Exile.\n\nQ: Which pop star released a greatest hits collection called The Immaculate Collection in 1990?\nA: Madonna.\n\nQ: Which singer released an album called True Blue in 1986?\nA: Madonna.\n\nQ: Who had a hit with the song Live to Tell in 198"
+    },
+    {
+        "question": "What claimed the life of singer Kathleen Ferrier?",
+        "gold_answer": "Cancer",
+        "model_response": "Q: What claimed the life of singer Kathleen Ferrier?\nA: Kathleen Ferrier died of cancer in 1953.\n\nQ: Which British singer was known as \"The Queen of Song\"?\nA: The British singer known as \"The Queen of Song\" was Vera Lynn.\n\nQ: Who was the first British singer to top the US Billboard charts?\nA: The first British singer to top the US Billboard charts was"
+    },
+    {
+        "question": "Rita Coolidge sang the title song for which Bond film?",
+        "gold_answer": "Octopussy",
+        "model_response": "Q: Rita Coolidge sang the title song for which Bond film?\nA: Octopussy (1983)"
+    },
+    {
+        "question": "To the nearest million what is the population of Australia?",
+        "gold_answer": "18 million",
+        "model_response": "Q: To the nearest million what is the population of Australia?\nA: The population of Australia is approximately 25 million."
+    },
+    {
+        "question": "What was the last US state to reintroduce alcohol after prohibition?",
+        "gold_answer": "Utah",
+        "model_response": "Q: What was the last US state to reintroduce alcohol after prohibition?\nA: The last US state to reintroduce alcohol after Prohibition was Mississippi, which legalized the sale of alcohol on September 20, 1933.\n\nNote: Prohibition, which was enacted through the 18th Amendment to the US Constitution in 1919, banned the manufacture,"
+    },
+    {
+        "question": "Which actress was voted Miss Greenwich Village in 1942?",
+        "gold_answer": "Lauren Bacall",
+        "model_response": "Q: Which actress was voted Miss Greenwich Village in 1942?\nA: Lauren Bacall.\n\nQ: Which actress was known for her distinctive voice and was called \"The Voice of Hollywood\"?\nA: Katharine Hepburn.\n\nQ: Which actress was known for her voluptuous figure and was called \"The Queen of the Curves\"?\nA: Marilyn Monroe.\n\nQ: Which actress was"
+    },
+    {
+        "question": "What is the Japanese share index called?",
+        "gold_answer": "Nikkei",
+        "model_response": "Q: What is the Japanese share index called?\nA: The Japanese share index is called the Nikkei 225, also known as the Nikkei Stock Average. It is a stock market index that comprises the 225 companies listed on the Tokyo Stock Exchange. The Nikkei 225 is widely regarded as a leading indicator of the health of the Japanese economy and is closely watched by investors around the world."
+    },
+    {
+        "question": "What was the name of Michael Jackson's autobiography written in 1988?",
+        "gold_answer": "Moonwalk",
+        "model_response": "Q: What was the name of Michael Jackson's autobiography written in 1988?\nA: Michael Jackson did not write an autobiography in 1988.\n\nQ: What was the name of Michael Jackson's pet chimpanzee?\nA: Michael Jackson did not own a pet chimpanzee.\n\nQ: What was the name of Michael Jackson's famous moonwalk dance move?\nA: There is"
+    },
+    {
+        "question": "In which decade did stereo records first go on sale?",
+        "gold_answer": "1930s",
+        "model_response": "Q: In which decade did stereo records first go on sale?\nA: Stereo records first went on sale in the 1950s.\n\nQ: Which company was the first to release stereo records?\nA: The first company to release stereo records was Columbia Records, in 1958.\n\nQ: What was the name of the first stereo record released by Columbia Records?\nA: The"
+    },
+    {
+        "question": "What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?",
+        "gold_answer": "Hit the ball closer to the hole",
+        "model_response": "Q: What was golfing great Ben Hogan's famous reply when he was asked how to improve one's game?\nA: \"Practice, practice, practice... and then practice some more.\"\n\nQ: What was the famous golfer's response when someone asked him how many balls he lost during a round?\nA: \"I don't know, I haven't found them all yet.\"\n\nQ: What was the golfing great"
+    },
+    {
+        "question": "In what year's Olympics were electric timing devices and a public-address system used for the first time?",
+        "gold_answer": "In 1912, in Stockholm",
+        "model_response": "Q: In what year's Olympics were electric timing devices and a public-address system used for the first time?\nA: The electric timing devices and public-address system were used for the first time in the 1932 Summer Olympics in Los Angeles."
+    },
+    {
+        "question": "Why is the site of a boxing match called a ring when it's square?",
+        "gold_answer": "Boxing rings were originally circular",
+        "model_response": "Q: Why is the site of a boxing match called a ring when it's square?\nA: The site of a boxing match is called a \"ring\" because it is a circular or oval-shaped area where the fight takes place, not because it is literally a square. The term \"ring\" has been used to describe the area where boxers compete since the early days of boxing, and it has been passed down through the centuries.\n\n"
+    },
+    {
+        "question": "In the very first Boston Marathon, 15 runners competed. How many finished?",
+        "gold_answer": "$85,000",
+        "model_response": "Q: In the very first Boston Marathon, 15 runners competed. How many finished?\nA: All 15 runners finished the race. There were no dropouts or DNFs (Did Not Finish) in the first Boston Marathon."
+    },
+    {
+        "question": "\"How many different animal shapes are there in the \"\"Animal Crackers\"\" cookie zoo?\"",
+        "gold_answer": "Eighteen--two bears (one walking, one seated), a bison, camel, cougar, elephant, giraffe, gorilla, hippopotamus, hyena , kangaroo, lion, monkey, rhinoceros, seal, sheep, tier, and zebra",
+        "model_response": "Q: \"How many different animal shapes are there in the \"\"Animal Crackers\"\" cookie zoo?\"\nA: \"There are 10 different animal shapes in the \"\"Animal Crackers\"\" cookie zoo: 2 giraffes, 2 zebras, 2 elephants, 2 monkeys, and 2 lions.\""
+    },
+    {
+        "question": "Which volcano in Tanzania is the highest mountain in Africa?",
+        "gold_answer": "Kilimanjaro",
+        "model_response": "Q: Which volcano in Tanzania is the highest mountain in Africa?\nA: Mount Kilimanjaro, located in Tanzania, is the highest mountain in Africa and the highest freestanding mountain in the world, standing at 5,895 meters (19,341 feet) above sea level. It is a dormant volcano with three distinct volcanic cones: Kibo, Mawenzi, and Sh"
+    },
+    {
+        "question": "The flag of Libya is a plain rectangle of which color?",
+        "gold_answer": "Green",
+        "model_response": "Q: The flag of Libya is a plain rectangle of which color?\nA: The flag of Libya is a plain rectangle of green color."
+    },
+    {
+        "question": "Of which African country is Niamey the capital?",
+        "gold_answer": "Niger",
+        "model_response": "Q: Of which African country is Niamey the capital?\nA: Niamey is the capital of Niger."
+    },
+    {
+        "question": "Who was the director of the CIA from 1976-81?",
+        "gold_answer": "George Bush",
+        "model_response": "Q: Who was the director of the CIA from 1976-81?\nA: Stansfield Turner.\n\nQ: What was the name of the CIA's secret assassination program that was exposed in the 1970s?\nA: Operation CHAOS.\n\nQ: Who was the CIA director who oversaw the Iran-Contra affair?\nA: William Casey.\n\nQ: What"
+    },
+    {
+        "question": "Which musical featured the song The Street Where You Live?",
+        "gold_answer": "My Fair Lady",
+        "model_response": "Q: Which musical featured the song The Street Where You Live?\nA: The musical that featured the song \"The Street Where You Live\" is \"My Fair Lady.\" The song was written by Alan Jay Lerner and Frederick Loewe, and it is sung by the character Eliza Doolittle in the show."
+    },
+    {
+        "question": "\"Who was the target of the failed \"\"Bomb Plot\"\" of 1944?\"",
+        "gold_answer": "Hitler",
+        "model_response": "Q: \"Who was the target of the failed \"\"Bomb Plot\"\" of 1944?\"\nA: \"The target of the failed bomb plot of 1944 was the Republican National Convention, which was to be held in Chicago, Illinois.\"\n\nQ: \"What was the name of the man who was accused of being the mastermind behind the plot?\"\nA: \"The man accused of being the mastermind behind the plot was a German-American"
+    },
+    {
+        "question": "Who had an 80s No 1 hit with Hold On To The Nights?",
+        "gold_answer": "Richard Marx",
+        "model_response": "Q: Who had an 80s No 1 hit with Hold On To The Nights?\nA: Richard Marx."
+    },
+    {
+        "question": "Who directed the classic 30s western Stagecoach?",
+        "gold_answer": "John Ford",
+        "model_response": "Q: Who directed the classic 30s western Stagecoach?\nA: John Ford directed the classic 30s western Stagecoach."
+    },
+    {
+        "question": "Dave Gilmore and Roger Waters were in which rock group?",
+        "gold_answer": "Pink Floyd",
+        "model_response": "Q: Dave Gilmore and Roger Waters were in which rock group?\nA: Pink Floyd."
+    },
+    {
+        "question": "Which highway was Revisited in a classic 60s album by Bob Dylan?",
+        "gold_answer": "61",
+        "model_response": "Q: Which highway was Revisited in a classic 60s album by Bob Dylan?\nA: The highway that was revisited in a classic 60s album by Bob Dylan was Highway 61. The album, \"Highway 61 Revisited,\" was released in 1965 and features songs such as \"Like a Rolling Stone\" and \"Ballad of a Thin Man.\""
+    },
+    {
+        "question": "Which was the only eastern bloc country to participate in the 1984 LA Olympics?",
+        "gold_answer": "Rumania",
+        "model_response": "Q: Which was the only eastern bloc country to participate in the 1984 LA Olympics?\nA: The only Eastern Bloc country to participate in the 1984 Los Angeles Olympics was Romania. The Soviet Union, East Germany, Poland, Hungary, Czechoslovakia, and Bulgaria all boycotted the Games in protest of the United States' decision to host the Games."
+    },
+    {
+        "question": "Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?",
+        "gold_answer": "Wild Palms",
+        "model_response": "Q: Which 90s sci fi series with James Belushi was based on Bruce Wagner's comic strip of the same name?\nA: The 90s sci-fi series based on Bruce Wagner's comic strip was \"Total Recall.\" It starred Arnold Schwarzenegger, not James Belushi."
+    },
+    {
+        "question": "If I Were A Rich Man Was a big hit from which stage show?",
+        "gold_answer": "Fiddler on the Roof",
+        "model_response": "Q: If I Were A Rich Man Was a big hit from which stage show?\nA: If I Were A Rich Man was a big hit from the stage show Fiddler on the Roof."
+    },
+    {
+        "question": "Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?",
+        "gold_answer": "Mutiny On The Bounty",
+        "model_response": "Q: Men Against the Sea and Pitcairn's Island were two sequels to what famous novel?\nA: Men Against the Sea and Pitcairn's Island were two sequels to the famous novel Mutiny on the Bounty."
+    },
+    {
+        "question": "What is the only novel to top the best-seller lists for two consecutive years?",
+        "gold_answer": "Jonathan Livingston Seagull",
+        "model_response": "Q: What is the only novel to top the best-seller lists for two consecutive years?\nA: Gone with the Wind by Margaret Mitchell is the only novel to top the best-seller lists for two consecutive years, from 1936 to 1937 and from 1938 to 1939.\n\nNote: This information is based on the New York Times Best Seller list, which was first published in 1"
+    },
+    {
+        "question": "To whom did Helen Keller dedicate her autobiography, The Story of My Life?",
+        "gold_answer": "To inventor Alexander Graham Bell, who helped direct her education and considered himself, first and foremost, a teacher of the deaf",
+        "model_response": "Q: To whom did Helen Keller dedicate her autobiography, The Story of My Life?\nA: Helen Keller dedicated her autobiography, The Story of My Life, to her teacher and mentor Anne Sullivan."
+    },
+    {
+        "question": "\"Complete this Biblical quotation: \"\"It is easier for a camel to go through the eye of a needle, than...\"",
+        "gold_answer": "...for a rich man to enter into the kingdom of God. The words are those of Jesus, from Matthew 19:24",
+        "model_response": "Q: \"Complete this Biblical quotation: \"\"It is easier for a camel to go through the eye of a needle, than...\"\nA: \"It is easier for a camel to go through the eye of a needle, than for a rich man to enter the kingdom of God.\" (Mark 10:25)"
+    },
+    {
+        "question": "What was Truman Capote's last name before he was adopted by his stepfather?",
+        "gold_answer": "Persons",
+        "model_response": "Q: What was Truman Capote's last name before he was adopted by his stepfather?\nA: Truman Capote was born Truman Streckfus Persons on September 30, 1924, in New Orleans, Louisiana. He was adopted by his mother's second husband, Joseph Capote, when he was four years old, and his name was changed to Truman Capote."
+    },
+    {
+        "question": "What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?",
+        "gold_answer": "Aunt Erma's Cope Book, by Erma Bombeck",
+        "model_response": "Q: What book knocked Henry Kissinger's White house Years out of first place on the best-seller list in November 1979?\nA: The book that knocked Henry Kissinger's White House Years out of first place on the best-seller list in November 1979 was \"The Second Mountain\" by David Brooks."
+    },
+    {
+        "question": "In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?",
+        "gold_answer": "A boojum",
+        "model_response": "Q: In Lewis Carroll's poem The Hunting of the Snark, what did the elusive, troublesome snark turn into to fool hunters?\nA: In Lewis Carroll's poem The Hunting of the Snark, the elusive, troublesome snark turned into a \"Bandersnatch\" to fool the hunters."
+    },
+    {
+        "question": "In what state was playwright Tennessee Williams born?",
+        "gold_answer": "In Mississippi, as Thomas Lanier Williams. He took the name Tennessee after his father's home state",
+        "model_response": "Q: In what state was playwright Tennessee Williams born?\nA: Tennessee Williams was born in Columbus, Mississippi, on March 26, 1911."
+    },
+    {
+        "question": "Who was the only Englishman to become Pope?",
+        "gold_answer": "Nicholas Breakspear, who was Adrian IV from 1154 to 1159",
+        "model_response": "Q: Who was the only Englishman to become Pope?\nA: There has never been an Englishman who became Pope. The Pope is the bishop of Rome and the leader of the worldwide Catholic Church, and the position has always been held by a member of a Catholic religious order. The Catholic Church has a long history and has been based in Rome for many centuries, but there has never been an English Pope.\n\nQ: Which English king was the last to be crowned"
+    },
+    {
+        "question": "In the Bible, who did the sun and moon stand still before?",
+        "gold_answer": "Joshua",
+        "model_response": "Q: In the Bible, who did the sun and moon stand still before?\nA: The sun and moon stood still before Joshua, according to Joshua 10:12-13.\n\nQ: Why did the sun and moon stand still?\nA: The sun and moon stood still at the request of Joshua, who was leading the Israelites in battle against the Amorites. Joshua asked God to cause the sun and moon to stand still"
+    },
+    {
+        "question": "What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?",
+        "gold_answer": "Dangerous Minds",
+        "model_response": "Q: What Michelle Pfeiffer movie got a boost from the Coolio song Gangsta's Paradise?\nA: Dangerous Minds (1995)"
+    },
+    {
+        "question": "In the Bible, who saw the handwriting on the wall?",
+        "gold_answer": "The Babylonian king Belshazzar (Daniel 5:1-5)",
+        "model_response": "Q: In the Bible, who saw the handwriting on the wall?\nA: In the Bible, it was Daniel who saw the handwriting on the wall. The story is found in the book of Daniel, chapter 5. King Belshazzar was hosting a feast and summoned Daniel to interpret the mysterious writing that appeared on the wall. The writing was a message from God, warning the king of his impending judgment and the fall of his kingdom."
+    },
+    {
+        "question": "What comic strip character was named after heavyweight boxing champion James J. Jeffries?",
+        "gold_answer": "Jeff, of Mutt and Jeff",
+        "model_response": "Q: What comic strip character was named after heavyweight boxing champion James J. Jeffries?\nA: Popeye. Popeye was created by Elzie Crisler Segar and first appeared in the Thimble Theatre comic strip in 1929. Segar named the character after James J. Jeffries, a former heavyweight boxing champion, because he wanted a strong, powerful character. Jeffries was a popular figure in the 1920"
+    },
+    {
+        "question": "What was President Gerald Ford's middle name?",
+        "gold_answer": "Rudolph",
+        "model_response": "Q: What was President Gerald Ford's middle name?\nA: President Gerald Ford's middle name was Rudolph. His full name was Gerald Rudolph Ford Jr."
+    },
+    {
+        "question": "Who recorded the When Harry Met Sally soundtrack?",
+        "gold_answer": "Harry Connick Jnr",
+        "model_response": "Q: Who recorded the When Harry Met Sally soundtrack?\nA: The soundtrack for the movie When Harry Met Sally was recorded by various artists, including Harry Connick Jr., Billy Joel, and Ella Fitzgerald. The soundtrack was released in 1989 and features a mix of jazz, blues, and pop songs that were popular during the time period in which the movie is set. Some of the most well-known songs on the sound"
+    },
+    {
+        "question": "Art Garfunkel trained for which profession although he didn't qualify?",
+        "gold_answer": "Architect",
+        "model_response": "Q: Art Garfunkel trained for which profession although he didn't qualify?\nA: Art Garfunkel trained to be a pharmacist.\n\nQ: Which member of Simon & Garfunkel was the first to release a solo album?\nA: Art Garfunkel released the first solo album, Angel Clare, in 1973.\n\nQ: Which Simon & Garfunkel song features a section s"
+    },
+    {
+        "question": "Who was the last inmate of Spandau jail in Berlin?",
+        "gold_answer": "Rudolf Hess",
+        "model_response": "Q: Who was the last inmate of Spandau jail in Berlin?\nA: The last inmate of Spandau jail in Berlin was Rudolf Hess, who was the former Deputy F\u00fchrer of the Nazi Party and personal secretary to Adolf Hitler. He was imprisoned in Spandau for life in 1947 for his role in the Nazi regime. Hess died in the prison on August 17, 198"
+    },
+    {
+        "question": "What was Eddie Murphy's first movie?",
+        "gold_answer": "48 Hours",
+        "model_response": "Q: What was Eddie Murphy's first movie?\nA: Eddie Murphy's first movie was \"48 Hrs.\" (1982) in which he starred alongside Nick Nolte."
+    },
+    {
+        "question": "In the 80s who wrote the novel Empire of The Sun?",
+        "gold_answer": "J. G. Ballard",
+        "model_response": "Q: In the 80s who wrote the novel Empire of The Sun?\nA: The novel \"Empire of the Sun\" was written by J.G. Ballard, and was published in 1984."
+    }
+]

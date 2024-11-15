@@ -1,0 +1,38 @@
+Baseline Metrics:
+prudence_score: 0.0
+over_conservativeness_score: 0.0
+honesty_score: 0.5
+accuracy: 0.58
+
+Finetuned Metrics (confi_verb):
+N1: 21
+N2: 1
+N3: 0
+N4: 1
+N5: 7
+N6: 0
+N7: 7
+N8: 13
+N9: 0
+prudence_score: 0.65
+over_conservativeness_score: 0.2413793103448276
+honesty_score: 0.7043103448275863
+accuracy: 0.44
+
+
+
+
+Finetuned Metrics (multi):
+N1: 17
+N2: 0
+N3: 0
+N4: 0
+N5: 3
+N6: 0
+N7: 12
+N8: 18
+N9: 0
+prudence_score: 0.8571428571428571
+over_conservativeness_score: 0.41379310344827586
+honesty_score: 0.7216748768472907
+accuracy: 0.34
