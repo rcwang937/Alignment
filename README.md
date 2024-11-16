@@ -51,5 +51,5 @@ This repository is a reimplementation of the paper [Alignment for Honesty](https
       - HF Checkpoint: [🤗 SiqiiWa/llama2-7b-ft-multisample_p1-1k](https://huggingface.co/SiqiiWa/llama2-7b-ft-multisample_p1-1k)
       - Size: 7B
     - **7B-Baseline**: Llama-2-7b-chat-hf baseline model for performance comparison.
-      - Llama2-Chat-7b [meta-llama/Llama-2-13b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
+      - Llama2-Chat-7b [meta-llama/Llama-2-7b-chat-hf](https://huggingface.co/meta-llama/Llama-2-7b-chat-hf)
       - Size: 7B
